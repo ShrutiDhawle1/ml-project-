@@ -1,0 +1,16 @@
+numpy
+pandas
+sklearn
+sklearn-pandas
+spacy
+statsmodels
+scikit-learn
+beautifulsoup4
+bs4
+fasttext
+nltk
+requests
+requests-oauthlib
+streamlit
+textblob
+wordcloud
